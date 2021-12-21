@@ -6,7 +6,7 @@ import json
 from aiohttp import web
 import re
 
-PLACES_KEY = "AIzaSyDnj0vlZmTSnF3bSmmfO78b-D2ZS6LhnyY"
+PLACES_KEY = "KEY_VAL"
 
 
 def get_server_port(name):
